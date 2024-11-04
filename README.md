@@ -18,6 +18,8 @@ As the potentiometer is adjusted, the RGB LED (onboard the Nexys A7-100T) gradua
 
 The voltage divider ensures the potentiometer output stays within the ADC’s 0 to 1V input range, allowing smooth control over the LED colors without exceeding the ADC’s limits. This setup keeps the input voltage within bounds for a single ADC channel configured for this experiment.
 
+![Voltage Divider Setup](Photos/divider.png)
+
 ### RGB LED Color Stages
 
 As the input voltage varies, the RGB LED cycles through six distinct stages. Each stage represents a specific color combination, achieved by adjusting the duty cycles of the red, green, and blue channels as follows:
