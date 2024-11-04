@@ -1,3 +1,0 @@
-domain_path: /home/noah/Projects/ECE-4310_Lab-9_Vitis/microblaze/export/microblaze/sw/standalone_microblaze_I
-app_src_dir: /tools/Xilinx/Vitis/2024.1/data/embeddedsw/lib/sw_apps/empty_application
-template: empty_application
